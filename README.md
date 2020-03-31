@@ -7,11 +7,7 @@ Go to [wikipedia](https://en.wikipedia.org/wiki/Tic-tac-toe) for more informatio
 --------
 
 ### The good news :
-```
 This AI never lose ! More other, the AI takes account to depth of tree and always choose the fastest way to win or if you cheat at the start, the slowest way to lose...
-```
 
 ### The negative side :
-```
 This AI use Brute-force and test all possibilities per action. Impossible to use the same algorithm for an other game with a larger matrix...
-```
